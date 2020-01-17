@@ -1,0 +1,5 @@
+schedule
+numpy
+sqlalchemy
+flask
+flask_cors
